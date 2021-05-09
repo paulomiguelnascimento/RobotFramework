@@ -19,6 +19,7 @@ Projeto simples contendo as telas:
 
 - Login Realizado com Sucesso
 -  Login Inválido
+-  Adicao de Produto ao Carrinho
 
  ### Instruções para executar os testes
 - Deve ser utilizado  o Visual Studio Code  como ferramenta para escrita dos scripts
