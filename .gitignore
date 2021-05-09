@@ -1,0 +1,7 @@
+*.html
+*.log
+*output.xml
+*.png
+*.pyc
+*.zip
+Results/
